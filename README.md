@@ -1,5 +1,7 @@
 # Cheat Sheet: Coq Proof Assistant to LeanProver
 
+![Coq LeanProver CheatSheet](CheatSheet.png)
+
 ## Quick Start tips
 
 - Lean is space sensitive and uses newlines instead of dots.
