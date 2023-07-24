@@ -1,4 +1,4 @@
-# Cheat Sheet: Coq Proof Assistant to LeanProver
+# Cheat Sheet: Coq Proof Assistant to LeanProver - [A4 pdf](./Coq%20LeanProver%20CheatSheet.pdf)
 
 ![Coq LeanProver CheatSheet](CheatSheet.png)
 
