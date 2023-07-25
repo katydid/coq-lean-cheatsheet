@@ -36,20 +36,26 @@
 | - | `\.` |
 | repeat | repeat |
 | try | try |
-| A\|B | (first\|A\|B)
+| A\|B | (first\|A\|B) |
+| in | at |
 | subst | subst_vars |
 | generalize dependent | revert |
 | remember | have |
+| assert | have |
+| pose | have |
 | refine | refine |
 | specialize | specialize |
 | split | apply And.intro |
 | symmetry | apply Eq.symm |
+| f_equal | apply congrArg |
 | left | left (requires mathlib) |
 | right | right (requires mathlib) |
 | ring | requires mathlib |
 | exists | use (requires mathlib) |
 | lia | linarith (requires mathlib) |
 | inversion | ? |
+| clear | clear |
+| trivial | trivial |
 
 ## Details about Tactics
 
